@@ -1,6 +1,6 @@
 import React from 'react';
 import Blogdata from '../CppDSA/Blogdata';
-import ReactBlogData from '../CppDSA/ReactBlogdata';
+import ReactBlogData from '../CppDSA/ReactBlogData';
 import OopsBlogData from '../CppDSA/OopsBlogData';
 import GitGithubData from '../CppDSA/GitGithubData';
 import FrontendBlogData from './FrontendBlogData';
